@@ -85,7 +85,7 @@ The dataset contains information about Netflix Movies and TV Shows, including:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot inside the **images** folder and name it **dashboard.png**
+> Add your dashboard screenshot inside the **images** folder and name it **Dashboard.png**
 
 ```markdown
 ![Dashboard](Dashboard.png)
